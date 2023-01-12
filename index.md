@@ -16,4 +16,4 @@
 ```
 Code block
 ```
-![Image](Screenshot 2023-01-12 at 14.49.53.png)
+![Image](part5.2.jpg)

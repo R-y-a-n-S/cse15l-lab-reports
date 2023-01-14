@@ -60,3 +60,7 @@ ieng6-203   14:35:02   13  0.13,  0.19,  0.15
 Use this link to learn basic commands: 
 [https://commonmark.org/help/](https://commonmark.org/help/)
 
+I used `cd /home/linux/ieng6/cs15lwi23/public/hello.txt ~/` but there is an error because there is no such directory. I instead use cp to replace cd to copy that address. I used `pwd` to check  if I  am  in that directory and `ls` to check the files and folders in the current directory. I created a folder using `mkdir blank.txt` and printed the result in hello.txt using `cat hello.txt`. Then I tried the same thing on blank.txt. There is an error because it is a folder not a txt file despite the name. (refer to the picture below for specific codes)
+<img src="part3.png" width="800">
+
+

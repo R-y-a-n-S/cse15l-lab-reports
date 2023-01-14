@@ -5,7 +5,8 @@ Visit the website [https://code.visualstudio.com/](https://code.visualstudio.com
 A zip file should be downloaded to your computer once you click download. Open the folder and follow the instructions on the pop up screen for installation. 
 
 ## Part2: Remotely Connecting
-Open. terminal in VScode and enter `ssh cs15lwi23zz@ieng6.ucsd.edu` in which zz are letters in your course-specific account. To find zz, please use the this link for account lookup: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
+Open. terminal in VScode and enter `ssh cs15lwi23zz@ieng6.ucsd.edu` in which zz are letters in your course-specific account. To find zz, please use the this link and enter your information for account lookup(refer to picture below) : [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
+![Image](account.png)
 If it is the first time you tried to login, type in yes when the following message may appears: 
 ```
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.238)' can't be established.

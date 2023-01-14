@@ -7,7 +7,8 @@ A zip file should be downloaded to your computer once you click download. Open t
 ## Part2: Remotely Connecting
 Open. terminal in VScode and enter `ssh cs15lwi23zz@ieng6.ucsd.edu` in which zz are letters in your course-specific account. To find zz, please use the this link and enter your information for account lookup(refer to picture below) : [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 <img src="account.png" width="800">
-If it is the first time you tried to login, type in yes when the following message may appears: 
+
+1If it is the first time you tried to login, type in yes when the following message may appears: 
 ```
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.238)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
@@ -55,3 +56,7 @@ ieng6-201   14:35:01   13  0.07,  0.14,  0.13
 ieng6-202   14:35:01   15  0.02,  0.12,  0.09
 ieng6-203   14:35:02   13  0.13,  0.19,  0.15
 ```
+## Part3: Trying Some Commands
+Use this link to learn basic commands: 
+[https://commonmark.org/help/](https://commonmark.org/help/)
+

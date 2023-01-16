@@ -8,7 +8,7 @@ A zip file should be downloaded to your computer once you click download. Open t
 Open. terminal in VScode and enter `ssh cs15lwi23zz@ieng6.ucsd.edu` in which zz are letters in your course-specific account. To find zz, please use the this link and enter your information for account lookup(refer to picture below) : [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 <img src="account.png" width="800">
 
-1If it is the first time you tried to login, type in yes when the following message may appears: 
+If it is the first time you tried to login, type in yes when the following message may appears: 
 ```
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.238)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
